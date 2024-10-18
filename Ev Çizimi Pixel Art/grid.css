@@ -1,0 +1,256 @@
+body{
+    min-height: 100vh;
+    display: grid;
+    grid-template-columns: repeat(10,50px);
+    grid-template-rows: repeat(10,50px);
+    place-content: center;
+}
+
+div{
+    background-color: darkred;
+    border: thin solid black;
+}
+
+#sayi1{
+    background-color: #1A1108;
+    grid-column: 8/9;
+    grid-row: 1/2;
+}
+
+#sayi2{
+    grid-column: 3/4;
+    grid-row: 2/3;
+}
+
+#sayi3{
+    grid-column: 4/5;
+    grid-row: 2/3;
+}
+
+#sayi4{
+    grid-column: 5/6;
+    grid-row: 2/3;
+}
+
+#sayi5{
+    grid-column: 6/7;
+    grid-row: 2/3;
+}
+
+#sayi6{
+    grid-column: 7/8;
+    grid-row: 2/3;
+}
+
+#sayi7{
+    background-color: #1A1108;
+    grid-column: 8/9;
+    grid-row: 2/3;
+}
+
+#sayi8{
+    grid-column: 2/3;
+    grid-row: 3/4;
+}
+
+#sayi9{
+    grid-column: 3/4;
+    grid-row: 3/4;
+}
+
+#sayi10{
+    grid-column: 4/5;
+    grid-row: 3/4;
+}
+
+#sayi11{
+    grid-column: 5/6;
+    grid-row: 3/4;
+}
+
+#sayi12{
+    grid-column: 6/7;
+    grid-row: 3/4;
+}
+
+#sayi13{
+    grid-column: 7/8;
+    grid-row: 3/4;
+}
+
+#sayi14{
+    grid-column: 8/9;
+    grid-row: 3/4;
+}
+
+#sayi15{
+    background-color: yellow;
+    grid-column: 2/3;
+    grid-row: 6/7;
+}
+
+#sayi16{
+    background-color: yellow;
+    grid-column: 2/3;
+    grid-row: 5/6;
+}
+
+#sayi17{
+    background-color: yellow;
+    grid-column: 3/4;
+    grid-row: 5/6;
+}
+
+#sayi18{
+    background-color: yellow;
+    grid-column: 4/5;
+    grid-row: 5/6;
+}
+
+#sayi19{
+    background-color: yellow;
+    grid-column: 5/6;
+    grid-row: 5/6;
+}
+
+#sayi20{
+    background-color: yellow;
+    grid-column: 6/7;
+    grid-row: 5/6;
+}
+
+#sayi21{
+    background-color: yellow;
+    grid-column: 7/8;
+    grid-row: 5/6;
+}
+
+#sayi22{
+    background-color: yellow;
+    grid-column: 8/9;
+    grid-row: 5/6;
+}
+
+#sayi23{
+    background-color: green;
+    grid-column: 3/4;
+    grid-row: 6/7;
+}
+
+#sayi24{
+    background-color: green;
+    grid-column: 4/5;
+    grid-row: 6/7;
+}
+
+#sayi25{
+    background-color: yellow;
+    grid-column: 5/6;
+    grid-row: 6/7;
+}
+
+#sayi26{
+    background-color: dodgerblue;
+    grid-column: 6/7;
+    grid-row: 6/7;
+}
+
+#sayi27{
+    background-color: dodgerblue;
+    grid-column: 7/8;
+    grid-row: 6/7;
+}
+
+#sayi28{
+    background-color: yellow;
+    grid-column: 8/9;
+    grid-row: 6/7;
+}
+
+#sayi29{
+    background-color: yellow;
+    grid-column: 2/3;
+    grid-row: 7/8;
+}
+
+#sayi30{
+    background-color: green;
+    grid-column: 3/4;
+    grid-row: 7/8;
+}
+
+#sayi31{
+    background-color: green;
+    grid-column: 4/5;
+    grid-row: 7/8;
+}
+
+#sayi32{
+    background-color: yellow;
+    grid-column: 5/6;
+    grid-row: 7/8;
+}
+
+#sayi33{
+    background-color: dodgerblue;
+    grid-column: 6/7;
+    grid-row: 7/8;
+}
+
+#sayi34{
+    background-color: dodgerblue;
+    grid-column: 7/8;
+    grid-row: 7/8;
+}
+
+#sayi35{
+    background-color: yellow;
+    grid-column: 8/9;
+    grid-row: 7/8;
+}
+
+#sayi36{
+    background-color: yellow;
+    grid-column: 2/3;
+    grid-row: 8/9;
+}
+
+#sayi37{
+    background-color: green;
+    grid-column: 3/4;
+    grid-row: 8/9;
+}
+
+#sayi38{
+    background-color: green;
+    grid-column: 4/5;
+    grid-row: 8/9;
+}
+
+#sayi39{
+    background-color: yellow;
+    grid-column: 5/6;
+    grid-row: 8/9;
+}
+
+#sayi40{
+    background-color: yellow;
+    grid-column: 6/7;
+    grid-row: 8/9;
+}
+
+#sayi41{
+    background-color: yellow;
+    grid-column: 7/8;
+    grid-row: 8/9;
+}
+
+#sayi42{
+    background-color: yellow;
+    grid-column: 8/9;
+    grid-row: 8/9;
+}
+
+.sayi{
+    grid-row: 4/5;
+}
